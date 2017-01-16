@@ -10,5 +10,6 @@ node app.js -> executa o servidor
 # Modulos
 	- express
 	- ejs
+	- mysql
 
 	- nodemon -> reinicia o servidor automaticamente. (nodemon app -> executa o servidor pelo nodemon)
