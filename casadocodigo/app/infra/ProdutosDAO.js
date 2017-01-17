@@ -3,7 +3,7 @@ function ProdutosDAO(connection) {
 }
 
 ProdutosDAO.prototype.lista = function(callback) {
-    this._connection.query('select * from livros', callback);
+    this._connection.query('select * from produtos', callback);
 }
 
 module.exports = function() {
