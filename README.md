@@ -12,5 +12,6 @@ node app.js -> executa o servidor
 	- ejs
 	- mysql
 	- express load
+	- body-parser
 
 	- nodemon -> reinicia o servidor automaticamente. (nodemon app -> executa o servidor pelo nodemon)
